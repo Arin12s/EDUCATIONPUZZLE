@@ -2,7 +2,7 @@
   "title": "Manusia Purba",
   "image": "puzzles/gambar/manusia_purba.jpg",
   "timer": 120,
-  "gridSize": 81,
+  "gridSize": 9,
   "pieces": [
     {
       "id": 1,
@@ -21,402 +21,41 @@
     },
     {
       "id": 4,
-      "position": [0, 3],
+      "position": [1, 0],
       "image": "puzzles/pieces/piece4.jpg"
     },
     {
       "id": 5,
-      "position": [0, 4],
+      "position": [1, 1],
       "image": "puzzles/pieces/piece5.jpg"
     },
     {
       "id": 6,
-      "position": [0, 5],
+      "position": [1, 2],
       "image": "puzzles/pieces/piece6.jpg"
     },
     {
       "id": 7,
-      "position": [0, 6],
+      "position": [2, 0],
       "image": "puzzles/pieces/piece7.jpg"
     },
     {
       "id": 8,
-      "position": [0, 7],
+      "position": [2, 1],
       "image": "puzzles/pieces/piece8.jpg"
     },
     {
       "id": 9,
-      "position": [0, 8],
-      "image": "puzzles/pieces/piece9.jpg"
-    },
-    {
-      "id": 10,
-      "position": [1, 0],
-      "image": "puzzles/pieces/piece10.jpg"
-    },
-    {
-      "id": 11,
-      "position": [1, 1],
-      "image": "puzzles/pieces/piece11.jpg"
-    },
-    {
-      "id": 12,
-      "position": [1, 2],
-      "image": "puzzles/pieces/piece12.jpg"
-    },
-    {
-      "id": 13,
-      "position": [1, 3],
-      "image": "puzzles/pieces/piece13.jpg"
-    },
-    {
-      "id": 14,
-      "position": [1, 4],
-      "image": "puzzles/pieces/piece14.jpg"
-    },
-    {
-      "id": 15,
-      "position": [1, 5],
-      "image": "puzzles/pieces/piece15.jpg"
-    },
-    {
-      "id": 16,
-      "position": [1, 6],
-      "image": "puzzles/pieces/piece16.jpg"
-    },
-    {
-      "id": 17,
-      "position": [1, 7],
-      "image": "puzzles/pieces/piece17.jpg"
-    },
-    {
-      "id": 18,
-      "position": [1, 8],
-      "image": "puzzles/pieces/piece18.jpg"
-    },
-    {
-      "id": 19,
-      "position": [2, 0],
-      "image": "puzzles/pieces/piece19.jpg"
-    },
-    {
-      "id": 20,
-      "position": [2, 1],
-      "image": "puzzles/pieces/piece20.jpg"
-    },
-    {
-      "id": 21,
       "position": [2, 2],
-      "image": "puzzles/pieces/piece21.jpg"
-    },
-    {
-      "id": 22,
-      "position": [2, 3],
-      "image": "puzzles/pieces/piece22.jpg"
-    },
-    {
-      "id": 23,
-      "position": [2, 4],
-      "image": "puzzles/pieces/piece23.jpg"
-    },
-    {
-      "id": 24,
-      "position": [2, 5],
-      "image": "puzzles/pieces/piece24.jpg"
-    },
-    {
-      "id": 25,
-      "position": [2, 6],
-      "image": "puzzles/pieces/piece25.jpg"
-    },
-    {
-      "id": 26,
-      "position": [2, 7],
-      "image": "puzzles/pieces/piece26.jpg"
-    },
-    {
-      "id": 27,
-      "position": [2, 8],
-      "image": "puzzles/pieces/piece27.jpg"
-    },
-    {
-      "id": 28,
-      "position": [3, 0],
-      "image": "puzzles/pieces/piece28.jpg"
-    },
-    {
-      "id": 29,
-      "position": [3, 1],
-      "image": "puzzles/pieces/piece29.jpg"
-    },
-    {
-      "id": 30,
-      "position": [3, 2],
-      "image": "puzzles/pieces/piece30.jpg"
-    },
-    {
-      "id": 31,
-      "position": [3, 3],
-      "image": "puzzles/pieces/piece31.jpg"
-    },
-    {
-      "id": 32,
-      "position": [3, 4],
-      "image": "puzzles/pieces/piece32.jpg"
-    },
-    {
-      "id": 33,
-      "position": [3, 5],
-      "image": "puzzles/pieces/piece33.jpg"
-    },
-    {
-      "id": 34,
-      "position": [3, 6],
-      "image": "puzzles/pieces/piece34.jpg"
-    },
-    {
-      "id": 35,
-      "position": [3, 7],
-      "image": "puzzles/pieces/piece35.jpg"
-    },
-    {
-      "id": 36,
-      "position": [3, 8],
-      "image": "puzzles/pieces/piece36.jpg"
-    },
-    {
-      "id": 37,
-      "position": [4, 0],
-      "image": "puzzles/pieces/piece37.jpg"
-    },
-    {
-      "id": 38,
-      "position": [4, 1],
-      "image": "puzzles/pieces/piece38.jpg"
-    },
-    {
-      "id": 39,
-      "position": [4, 2],
-      "image": "puzzles/pieces/piece39.jpg"
-    },
-    {
-      "id": 40,
-      "position": [4, 3],
-      "image": "puzzles/pieces/piece40.jpg"
-    },
-    {
-      "id": 41,
-      "position": [4, 4],
-      "image": "puzzles/pieces/piece41.jpg"
-    },
-    {
-      "id": 42,
-      "position": [4, 5],
-      "image": "puzzles/pieces/piece42.jpg"
-    },
-    {
-      "id": 43,
-      "position": [4, 6],
-      "image": "puzzles/pieces/piece43.jpg"
-    },
-    {
-      "id": 44,
-      "position": [4, 7],
-      "image": "puzzles/pieces/piece44.jpg"
-    },
-    {
-      "id": 45,
-      "position": [4, 8],
-      "image": "puzzles/pieces/piece45.jpg"
-    },
-    {
-      "id": 46,
-      "position": [5, 0],
-      "image": "puzzles/pieces/piece46.jpg"
-    },
-    {
-      "id": 47,
-      "position": [5, 1],
-      "image": "puzzles/pieces/piece47.jpg"
-    },
-    {
-      "id": 48,
-      "position": [5, 2],
-      "image": "puzzles/pieces/piece48.jpg"
-    },
-    {
-      "id": 49,
-      "position": [5, 3],
-      "image": "puzzles/pieces/piece49.jpg"
-    },
-    {
-      "id": 50,
-      "position": [5, 4],
-      "image": "puzzles/pieces/piece50.jpg"
-    },
-    {
-      "id": 51,
-      "position": [5, 5],
-      "image": "puzzles/pieces/piece51.jpg"
-    },
-    {
-      "id": 52,
-      "position": [5, 6],
-      "image": "puzzles/pieces/piece52.jpg"
-    },
-    {
-      "id": 53,
-      "position": [5, 7],
-      "image": "puzzles/pieces/piece53.jpg"
-    },
-    {
-      "id": 54,
-      "position": [5, 8],
-      "image": "puzzles/pieces/piece54.jpg"
-    },
-    {
-      "id": 55,
-      "position": [6, 0],
-      "image": "puzzles/pieces/piece55.jpg"
-    },
-    {
-      "id": 56,
-      "position": [6, 1],
-      "image": "puzzles/pieces/piece56.jpg"
-    },
-    {
-      "id": 57,
-      "position": [6, 2],
-      "image": "puzzles/pieces/piece57.jpg"
-    },
-    {
-      "id": 58,
-      "position": [6, 3],
-      "image": "puzzles/pieces/piece58.jpg"
-    },
-    {
-      "id": 59,
-      "position": [6, 4],
-      "image": "puzzles/pieces/piece59.jpg"
-    },
-    {
-      "id": 60,
-      "position": [6, 5],
-      "image": "puzzles/pieces/piece60.jpg"
-    },
-    {
-      "id": 61,
-      "position": [6, 6],
-      "image": "puzzles/pieces/piece61.jpg"
-    },
-    {
-      "id": 62,
-      "position": [6, 7],
-      "image": "puzzles/pieces/piece62.jpg"
-    },
-    {
-      "id": 63,
-      "position": [6, 8],
-      "image": "puzzles/pieces/piece63.jpg"
-    },
-    {
-      "id": 64,
-      "position": [7, 0],
-      "image": "puzzles/pieces/piece64.jpg"
-    },
-    {
-      "id": 65,
-      "position": [7, 1],
-      "image": "puzzles/pieces/piece65.jpg"
-    },
-    {
-      "id": 66,
-      "position": [7, 2],
-      "image": "puzzles/pieces/piece66.jpg"
-    },
-    {
-      "id": 67,
-      "position": [7, 3],
-      "image": "puzzles/pieces/piece67.jpg"
-    },
-    {
-      "id": 68,
-      "position": [7, 4],
-      "image": "puzzles/pieces/piece68.jpg"
-    },
-    {
-      "id": 69,
-      "position": [7, 5],
-      "image": "puzzles/pieces/piece69.jpg"
-    },
-    {
-      "id": 70,
-      "position": [7, 6],
-      "image": "puzzles/pieces/piece70.jpg"
-    },
-    {
-      "id": 71,
-      "position": [7, 7],
-      "image": "puzzles/pieces/piece71.jpg"
-    },
-    {
-      "id": 72,
-      "position": [7, 8],
-      "image": "puzzles/pieces/piece72.jpg"
-    },
-    {
-      "id": 73,
-      "position": [8, 0],
-      "image": "puzzles/pieces/piece73.jpg"
-    },
-    {
-      "id": 74,
-      "position": [8, 1],
-      "image": "puzzles/pieces/piece74.jpg"
-    },
-    {
-      "id": 75,
-      "position": [8, 2],
-      "image": "puzzles/pieces/piece75.jpg"
-    },
-    {
-      "id": 76,
-      "position": [8, 3],
-      "image": "puzzles/pieces/piece76.jpg"
-    },
-    {
-      "id": 77,
-      "position": [8, 4],
-      "image": "puzzles/pieces/piece77.jpg"
-    },
-    {
-      "id": 78,
-      "position": [8, 5],
-      "image": "puzzles/pieces/piece78.jpg"
-    },
-    {
-      "id": 79,
-      "position": [8, 6],
-      "image": "puzzles/pieces/piece79.jpg"
-    },
-    {
-      "id": 80,
-      "position": [8, 7],
-      "image": "puzzles/pieces/piece80.jpg"
-    },
-    {
-      "id": 81,
-      "position": [8, 8],
-      "image": "puzzles/pieces/piece81.jpg"
+      "image": "puzzles/pieces/piece9.jpg"
     }
   ],
   "description": "Manusia purba dan dinosaurus, meskipun hidup pada zaman yang berbeda, memiliki keterkaitan yang penting dalam memahami kehidupan sekarang. Studi tentang keduanya membantu memahami proses evolusi, adaptasi, dan konservasi lingkungan. Dengan memahami bagaimana kehidupan di Bumi berubah sepanjang waktu, kita dapat menghargai keanekaragaman hayati, mengembangkan teknologi yang lebih baik, dan mengatasi perubahan lingkungan saat ini. Pemahaman tentang masa lalu dapat memberikan wawasan yang berharga untuk kehidupan sekarang dan masa depan."
-}
-{
+}{
   "title": "Manusia Purba",
   "image": "puzzles/gambar/manusia_purba.jpg",
   "timer": 120,
-  "gridSize": 81,
+  "gridSize": 9,
   "pieces": [
     {
       "id": 1,
@@ -435,393 +74,33 @@
     },
     {
       "id": 4,
-      "position": [0, 3],
+      "position": [1, 0],
       "image": "puzzles/pieces/piece4.jpg"
     },
     {
       "id": 5,
-      "position": [0, 4],
+      "position": [1, 1],
       "image": "puzzles/pieces/piece5.jpg"
     },
     {
       "id": 6,
-      "position": [0, 5],
+      "position": [1, 2],
       "image": "puzzles/pieces/piece6.jpg"
     },
     {
       "id": 7,
-      "position": [0, 6],
+      "position": [2, 0],
       "image": "puzzles/pieces/piece7.jpg"
     },
     {
       "id": 8,
-      "position": [0, 7],
+      "position": [2, 1],
       "image": "puzzles/pieces/piece8.jpg"
     },
     {
       "id": 9,
-      "position": [0, 8],
-      "image": "puzzles/pieces/piece9.jpg"
-    },
-    {
-      "id": 10,
-      "position": [1, 0],
-      "image": "puzzles/pieces/piece10.jpg"
-    },
-    {
-      "id": 11,
-      "position": [1, 1],
-      "image": "puzzles/pieces/piece11.jpg"
-    },
-    {
-      "id": 12,
-      "position": [1, 2],
-      "image": "puzzles/pieces/piece12.jpg"
-    },
-    {
-      "id": 13,
-      "position": [1, 3],
-      "image": "puzzles/pieces/piece13.jpg"
-    },
-    {
-      "id": 14,
-      "position": [1, 4],
-      "image": "puzzles/pieces/piece14.jpg"
-    },
-    {
-      "id": 15,
-      "position": [1, 5],
-      "image": "puzzles/pieces/piece15.jpg"
-    },
-    {
-      "id": 16,
-      "position": [1, 6],
-      "image": "puzzles/pieces/piece16.jpg"
-    },
-    {
-      "id": 17,
-      "position": [1, 7],
-      "image": "puzzles/pieces/piece17.jpg"
-    },
-    {
-      "id": 18,
-      "position": [1, 8],
-      "image": "puzzles/pieces/piece18.jpg"
-    },
-    {
-      "id": 19,
-      "position": [2, 0],
-      "image": "puzzles/pieces/piece19.jpg"
-    },
-    {
-      "id": 20,
-      "position": [2, 1],
-      "image": "puzzles/pieces/piece20.jpg"
-    },
-    {
-      "id": 21,
       "position": [2, 2],
-      "image": "puzzles/pieces/piece21.jpg"
-    },
-    {
-      "id": 22,
-      "position": [2, 3],
-      "image": "puzzles/pieces/piece22.jpg"
-    },
-    {
-      "id": 23,
-      "position": [2, 4],
-      "image": "puzzles/pieces/piece23.jpg"
-    },
-    {
-      "id": 24,
-      "position": [2, 5],
-      "image": "puzzles/pieces/piece24.jpg"
-    },
-    {
-      "id": 25,
-      "position": [2, 6],
-      "image": "puzzles/pieces/piece25.jpg"
-    },
-    {
-      "id": 26,
-      "position": [2, 7],
-      "image": "puzzles/pieces/piece26.jpg"
-    },
-    {
-      "id": 27,
-      "position": [2, 8],
-      "image": "puzzles/pieces/piece27.jpg"
-    },
-    {
-      "id": 28,
-      "position": [3, 0],
-      "image": "puzzles/pieces/piece28.jpg"
-    },
-    {
-      "id": 29,
-      "position": [3, 1],
-      "image": "puzzles/pieces/piece29.jpg"
-    },
-    {
-      "id": 30,
-      "position": [3, 2],
-      "image": "puzzles/pieces/piece30.jpg"
-    },
-    {
-      "id": 31,
-      "position": [3, 3],
-      "image": "puzzles/pieces/piece31.jpg"
-    },
-    {
-      "id": 32,
-      "position": [3, 4],
-      "image": "puzzles/pieces/piece32.jpg"
-    },
-    {
-      "id": 33,
-      "position": [3, 5],
-      "image": "puzzles/pieces/piece33.jpg"
-    },
-    {
-      "id": 34,
-      "position": [3, 6],
-      "image": "puzzles/pieces/piece34.jpg"
-    },
-    {
-      "id": 35,
-      "position": [3, 7],
-      "image": "puzzles/pieces/piece35.jpg"
-    },
-    {
-      "id": 36,
-      "position": [3, 8],
-      "image": "puzzles/pieces/piece36.jpg"
-    },
-    {
-      "id": 37,
-      "position": [4, 0],
-      "image": "puzzles/pieces/piece37.jpg"
-    },
-    {
-      "id": 38,
-      "position": [4, 1],
-      "image": "puzzles/pieces/piece38.jpg"
-    },
-    {
-      "id": 39,
-      "position": [4, 2],
-      "image": "puzzles/pieces/piece39.jpg"
-    },
-    {
-      "id": 40,
-      "position": [4, 3],
-      "image": "puzzles/pieces/piece40.jpg"
-    },
-    {
-      "id": 41,
-      "position": [4, 4],
-      "image": "puzzles/pieces/piece41.jpg"
-    },
-    {
-      "id": 42,
-      "position": [4, 5],
-      "image": "puzzles/pieces/piece42.jpg"
-    },
-    {
-      "id": 43,
-      "position": [4, 6],
-      "image": "puzzles/pieces/piece43.jpg"
-    },
-    {
-      "id": 44,
-      "position": [4, 7],
-      "image": "puzzles/pieces/piece44.jpg"
-    },
-    {
-      "id": 45,
-      "position": [4, 8],
-      "image": "puzzles/pieces/piece45.jpg"
-    },
-    {
-      "id": 46,
-      "position": [5, 0],
-      "image": "puzzles/pieces/piece46.jpg"
-    },
-    {
-      "id": 47,
-      "position": [5, 1],
-      "image": "puzzles/pieces/piece47.jpg"
-    },
-    {
-      "id": 48,
-      "position": [5, 2],
-      "image": "puzzles/pieces/piece48.jpg"
-    },
-    {
-      "id": 49,
-      "position": [5, 3],
-      "image": "puzzles/pieces/piece49.jpg"
-    },
-    {
-      "id": 50,
-      "position": [5, 4],
-      "image": "puzzles/pieces/piece50.jpg"
-    },
-    {
-      "id": 51,
-      "position": [5, 5],
-      "image": "puzzles/pieces/piece51.jpg"
-    },
-    {
-      "id": 52,
-      "position": [5, 6],
-      "image": "puzzles/pieces/piece52.jpg"
-    },
-    {
-      "id": 53,
-      "position": [5, 7],
-      "image": "puzzles/pieces/piece53.jpg"
-    },
-    {
-      "id": 54,
-      "position": [5, 8],
-      "image": "puzzles/pieces/piece54.jpg"
-    },
-    {
-      "id": 55,
-      "position": [6, 0],
-      "image": "puzzles/pieces/piece55.jpg"
-    },
-    {
-      "id": 56,
-      "position": [6, 1],
-      "image": "puzzles/pieces/piece56.jpg"
-    },
-    {
-      "id": 57,
-      "position": [6, 2],
-      "image": "puzzles/pieces/piece57.jpg"
-    },
-    {
-      "id": 58,
-      "position": [6, 3],
-      "image": "puzzles/pieces/piece58.jpg"
-    },
-    {
-      "id": 59,
-      "position": [6, 4],
-      "image": "puzzles/pieces/piece59.jpg"
-    },
-    {
-      "id": 60,
-      "position": [6, 5],
-      "image": "puzzles/pieces/piece60.jpg"
-    },
-    {
-      "id": 61,
-      "position": [6, 6],
-      "image": "puzzles/pieces/piece61.jpg"
-    },
-    {
-      "id": 62,
-      "position": [6, 7],
-      "image": "puzzles/pieces/piece62.jpg"
-    },
-    {
-      "id": 63,
-      "position": [6, 8],
-      "image": "puzzles/pieces/piece63.jpg"
-    },
-    {
-      "id": 64,
-      "position": [7, 0],
-      "image": "puzzles/pieces/piece64.jpg"
-    },
-    {
-      "id": 65,
-      "position": [7, 1],
-      "image": "puzzles/pieces/piece65.jpg"
-    },
-    {
-      "id": 66,
-      "position": [7, 2],
-      "image": "puzzles/pieces/piece66.jpg"
-    },
-    {
-      "id": 67,
-      "position": [7, 3],
-      "image": "puzzles/pieces/piece67.jpg"
-    },
-    {
-      "id": 68,
-      "position": [7, 4],
-      "image": "puzzles/pieces/piece68.jpg"
-    },
-    {
-      "id": 69,
-      "position": [7, 5],
-      "image": "puzzles/pieces/piece69.jpg"
-    },
-    {
-      "id": 70,
-      "position": [7, 6],
-      "image": "puzzles/pieces/piece70.jpg"
-    },
-    {
-      "id": 71,
-      "position": [7, 7],
-      "image": "puzzles/pieces/piece71.jpg"
-    },
-    {
-      "id": 72,
-      "position": [7, 8],
-      "image": "puzzles/pieces/piece72.jpg"
-    },
-    {
-      "id": 73,
-      "position": [8, 0],
-      "image": "puzzles/pieces/piece73.jpg"
-    },
-    {
-      "id": 74,
-      "position": [8, 1],
-      "image": "puzzles/pieces/piece74.jpg"
-    },
-    {
-      "id": 75,
-      "position": [8, 2],
-      "image": "puzzles/pieces/piece75.jpg"
-    },
-    {
-      "id": 76,
-      "position": [8, 3],
-      "image": "puzzles/pieces/piece76.jpg"
-    },
-    {
-      "id": 77,
-      "position": [8, 4],
-      "image": "puzzles/pieces/piece77.jpg"
-    },
-    {
-      "id": 78,
-      "position": [8, 5],
-      "image": "puzzles/pieces/piece78.jpg"
-    },
-    {
-      "id": 79,
-      "position": [8, 6],
-      "image": "puzzles/pieces/piece79.jpg"
-    },
-    {
-      "id": 80,
-      "position": [8, 7],
-      "image": "puzzles/pieces/piece80.jpg"
-    },
-    {
-      "id": 81,
-      "position": [8, 8],
-      "image": "puzzles/pieces/piece81.jpg"
+      "image": "puzzles/pieces/piece9.jpg"
     }
   ],
   "description": "Manusia purba dan dinosaurus, meskipun hidup pada zaman yang berbeda, memiliki keterkaitan yang penting dalam memahami kehidupan sekarang. Studi tentang keduanya membantu memahami proses evolusi, adaptasi, dan konservasi lingkungan. Dengan memahami bagaimana kehidupan di Bumi berubah sepanjang waktu, kita dapat menghargai keanekaragaman hayati, mengembangkan teknologi yang lebih baik, dan mengatasi perubahan lingkungan saat ini. Pemahaman tentang masa lalu dapat memberikan wawasan yang berharga untuk kehidupan sekarang dan masa depan."
